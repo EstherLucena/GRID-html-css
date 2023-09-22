@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.geral{
+    display: grid;
+    gap: 15px;
+}
+
+.amarelo{
+    grid-column: 1 /3 ;
+    grid-row:  1 ;
+}
+
+.vermelho{
+    grid-column: 2 /3 ;
+    grid-row: 2 / 4;
+}
